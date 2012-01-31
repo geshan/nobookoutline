@@ -1,0 +1,9 @@
+name = No Book Outline
+description = "No book outline for any content type except book."
+package = "Book-Wiki"
+core = 6.x
+; Information added by drupal.org packaging script on 2009-04-10
+version = "6.x-1.0"
+core = "6.x"
+
+dependencies[] = book
