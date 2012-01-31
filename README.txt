@@ -1,5 +1,5 @@
 THIS MODULE DOES
-Removes outline tabs on dispaly from selected content types with a settings page.
+Removes outline tabs on dispaly from selected content types with a settings page in Drupal 6.x.
 
 
 DOCUMENTATION
